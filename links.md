@@ -27,7 +27,11 @@ https://dzone.com/articles/understanding-what-is-principal-component-analysis#:~
 ## Regression Guide
 
 https://www.kaggle.com/pandeydivesh16/a-comprehensive-guide-to-advanced-regression/edit
-https://www.kaggle.com/code/pandeydivesh16/advanced-reg-techniques-linear-models-top-6/edit (steps are clear, some visualizations are quick)
+
+https://www.kaggle.com/code/pandeydivesh16/advanced-reg-techniques-linear-models-top-6/edit 
+- steps are clear, some visualizations are quick
+- Skewness, Kurtosis, Shapiro-Wilk tests for normality (have shared the recommended values)
+
 https://www.kaggle.com/code/pandeydivesh16/stacked-regressions-top-4-on-leaderboard/edit
 
 ## Novelty and Outlier detection
